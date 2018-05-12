@@ -1,0 +1,24 @@
+_repo: The-Song-of-the-Exile-A-Canadian-Epic_20939
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Skeats, Wilfred S.
+    gutenberg_agent_id: '9619'
+    url: http://www.gutenberg.org/2009/agents/9619
+description: ''
+gutenberg_issued: '2007-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry'
+- !lcc 'PS'
+title: The Song of the Exile—A Canadian Epic
+url: http://www.gutenberg.org/ebooks/20939
